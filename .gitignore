@@ -1,0 +1,9 @@
+# Ignore bulky dependency folders
+node_modules/
+
+# Ignore local environment variables
+.env
+
+# Ignore frontend build output
+dist/
+build/
